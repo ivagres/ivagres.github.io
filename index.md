@@ -17,7 +17,7 @@
 2. Доступ к контактам телефона используется для таких то целей (укажите для каких).
 ```
 ## Контакты
-e-mail: [ivanov.vitaly@kompiva.ru]
+e-mail: ivanov.vitaly@kompiva.ru
 
 ```
 
